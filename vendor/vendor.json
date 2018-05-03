@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ozEwMzA48zwMyQ50SwNKSM852U4=",
+			"path": "k8s.io/apimachinery/pkg/util/sets",
+			"revision": "e7cad760a93d4bd4d7536ce88d96d1d8049a7fb2",
+			"revisionTime": "2018-05-03T03:13:13Z"
+		}
+	],
+	"rootPath": "github.com/gfleury/mongodb-install"
+}
